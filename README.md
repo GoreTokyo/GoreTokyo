@@ -5,6 +5,7 @@
 - Python
 - Java
 - JavaScript
+- Lua
 
 ## 工具
 - Visual Studio
