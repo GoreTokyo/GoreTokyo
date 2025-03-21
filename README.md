@@ -1,5 +1,4 @@
-Hi, I'm GoreTokyo.
-
-- **Programming Languages**: C++, Python, Java, JavaScript
-- **Tools**: Visual Studio, Visual Studio Code, Git, Docker
-- **Gaming**: Apex Legends, Grand Theft Auto V, Borderlands 3, The Elder Scrolls Online
+你好，我是GoreTokyo。
+	•	程式語言：C++、Python、Java、JavaScript、Lua
+	•	工具：Visual Studio、Visual Studio Code、Git、Docker
+	•	遊戲：Apex Legends、Grand Theft Auto V、Borderlands 3、The Elder Scrolls Online
