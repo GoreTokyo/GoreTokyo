@@ -1,4 +1,4 @@
-# Hi there, GoreTokyo👋
+# Hi there👋
 
 ---
 
